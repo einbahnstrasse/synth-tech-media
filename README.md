@@ -1,15 +1,16 @@
-# synth-tech-media
-### for students inerolled in _Sound Synthesis Techniques and Creative Coding_ with Dr. Goldford
+# synth-tech-media   
+### for students inerolled in _Sound Synthesis Techniques and Creative Coding_ with Dr. Goldford   
 
-#### What?  
-A folder of test signals to use while prototyping your own patches and our pedagogical patches in class. 
+#### What?    
+A folder of test signals for use while prototyping your own   
+Max patches as well as our pedagogical patches in class. 
 
-#### How? 
-Simply click on the `Code` button and choose `Download zip`. 
-You may add your own test sounds to this folder at any time! 
+#### How?   
+Simply click on the `Code` button and choose `Download ZIP`.   
+You may **add your own test sounds** to your own copy of this folder at any time!   
 
-#### CAUTION!  
-**Do not** copy this into your own class repository! 
-Instead, keep this outside of your folder of patches, but nearby 
-(like, within the same directory as your repository of patches). 
+#### CAUTION!    
+**Do not** copy this into your class repository!   
+Instead, keep this outside of your folder of patches, but nearby   
+(like, within the same directory as your repository of patches).   
 
