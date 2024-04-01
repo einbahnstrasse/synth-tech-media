@@ -1,5 +1,5 @@
 # synth-tech-media   
-### for students inerolled in _Sound Synthesis Techniques and Creative Coding_ with Dr. Goldford   
+### for students enrolled in _Sound Synthesis Techniques and Creative Coding_ with Dr. Goldford   
 
 #### What?    
 A folder of test signals for use while prototyping your own   
